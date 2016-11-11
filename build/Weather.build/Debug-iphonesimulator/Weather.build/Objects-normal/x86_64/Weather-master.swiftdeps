@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "ed6d2507f68d2e4e9e75cca0cda72eee"
+inputs: 
+- "/Users/Adhita/Documents/iOS_Apps/Weather/Weather/ViewController.swift"
+- "/Users/Adhita/Documents/iOS_Apps/Weather/Weather/AppDelegate.swift"

@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "22b9e857d7b1c884e5279e033f32b2b4"
+inputs: 
+- "/Users/Adhita/Documents/iOS_Apps/Weather/WeatherTests/WeatherTests.swift"
